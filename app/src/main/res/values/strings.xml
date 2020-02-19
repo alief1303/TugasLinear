@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas Linear</string>
+    <string name="zona_base_camp">Zona Base Camp</string>
+    <string name="pilih_orang">Pilih Orang</string>
+    <string name="kacun">Kacun</string>
+    <string name="ojik">Ojik</string>
+    <string name="todo">TODO</string>
+</resources>
